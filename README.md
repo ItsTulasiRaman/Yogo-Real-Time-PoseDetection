@@ -1,6 +1,6 @@
 ## **1. The problem consists of two main parts**
 ### Part 1: Classifying movements based on SVM (Support vector machines)
-### Part 2: Posture assessment gives real-time feedback
+### Part 2: Realtime Posture assessment feedback from **Realtime video stream**
 ## **2. Collect data**
 ### Collected from kaggle : [YOGA_POSE_DATASET](https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset)
 
@@ -19,5 +19,7 @@
 
 ### **Hope this article can help you.**
 ### **If you have any questions please contact me for help!**
+
+### I extend my gratitude to ![github.com/FPT-ThaiTuan](github.com/FPT-ThaiTuan) for making this possible as this code is an extension from this repository.
 
 ### ***Thanks everyone!***
